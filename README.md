@@ -9,7 +9,7 @@
 ### 💫 About Me
 
 - 🎓 Recent Master’s Graduate in Computer Science (Oklahoma City University)  
-- 🛠️ Currently building: **Focus Fairy**, **My Daily Spellbook**, **Dear Diary** (React-based productivity apps)  
+- 🛠️ Currently building: (React-based productivity apps)  
 - 🎨 I love Disney themes, clean design & creative UX  
 - ✨ Goal: Make fun, useful apps that sparkle 💖  
 - 📚 Published paper: *Breaking the Bot Barrier – AI Chatbots and CAPTCHA Evasion*
@@ -60,7 +60,7 @@
 
 ### 📄 Resume
 
-**Download my resume 👉** [Click here](https://github.com/AkhilaGundekari/AkhilaGundekari/blob/main/assets/AkhilaGundekari_Resume.pdf)
+**Download my resume 👉** [Click here](https://github.com/AkhilaGundekari/AkhilaGundekari/blob/main/assets/AkhilaGundekari_Resume.doc)
 
 ---
 
