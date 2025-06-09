@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AkhilaGundekari
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...akhilagundekari4238@gmail.com
+<!-- Optional Banner -->
+<!-- You can generate a wave here: https://getwaves.io/ and upload to your repo -->
+<img src="https://github.com/AkhilaGundekari/AkhilaGundekari/blob/main/assets/banner.svg" alt="banner" />
 
-<!---
-AkhilaGundekari/AkhilaGundekari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, it's Akhila Gundekari 👋
+
+```bash
+/akhila $ cat skills.py
+{
+  "languages": ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  "frameworks": ["React", "Vite", "TailwindCSS"],
+  "cloud": ["AWS", "Azure"],
+  "tools": ["Git", "GitHub", "VS Code", "Figma", "Adobe XD", "Canva"],
+  "interests": ["UI/UX", "Frontend Dev", "Themed Productivity Apps", "Disney & Harry Potter Inspired Designs 🎀✨"]
+}
