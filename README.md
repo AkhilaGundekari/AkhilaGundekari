@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Akhila 👋</h1>
+<h1 align="center">Hi there, I'm Akhila Gundekari👋</h1>
 
 <p align="center">
   <em>Passionate CS Grad | Builder of Magical Productivity Apps ✨🪄 | Aspiring Frontend Dev</em>
@@ -8,8 +8,8 @@
 
 ### 💫 About Me
 
-- 🎓 Pursuing Master’s in Computer Science  
-- 🛠️ Currently building: **Focus Fairy**, **My Daily Spellbook**, and **Dear Diary** apps with React  
+- 🎓 Recent Master’s Graduate in Computer Science  
+- 🛠️ Currently building: Productivity apps with React  
 - 🎨 I love Disney themes, clean design & creative UX
 - ✨ Goal: Make fun, useful apps that sparkle 💖
 
@@ -42,8 +42,8 @@
 
 ### 🔗 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/akhilagundekari01 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)]https://akhilagundekari.github.io/akhila-portfolio/
 
 
 
