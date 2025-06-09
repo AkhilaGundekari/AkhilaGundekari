@@ -13,3 +13,7 @@
   "tools": ["Git", "GitHub", "VS Code", "Figma", "Adobe XD", "Canva"],
   "interests": ["UI/UX", "Frontend Dev", "Themed Productivity Apps", "Disney & Harry Potter Inspired Designs 🎀✨"]
 }
+## Employer?
+
+**Download my resume 👉** [Download here](https://github.com/AkhilaGundekari/AkhilaGundekari/blob/main/assets/AkhilaGundekari_Resume.dox)
+
