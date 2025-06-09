@@ -2,7 +2,6 @@
 <!-- You can generate a wave here: https://getwaves.io/ and upload to your repo -->
 <img src="https://github.com/AkhilaGundekari/AkhilaGundekari/blob/main/assets/banner.svg" alt="banner" />
 
-
 # Hello, it's Akhila Gundekari 👋
 
 ```bash
